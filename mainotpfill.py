@@ -7,7 +7,7 @@ import re
 import datetime
 
 # ✅ Step 1: Initialize Firebase with Service Account Key
-cred = credentials.Certificate("C:\\Users\\ebask\\Desktop\\VisasBot3\\serviceAccountKey.json")  # Replace with your file path
+cred = credentials.Certificate("serviceAccountKey.json")  # Replace with your file path
 firebase_admin.initialize_app(cred, {
     'databaseURL': 'https://readotp-c0a79-default-rtdb.firebaseio.com/'  # Replace with your database URL
 })
