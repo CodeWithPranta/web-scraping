@@ -1,0 +1,24 @@
+
+{
+    "user_1": {
+        "id": 1,
+        "highcom": "Rajshahi",
+        "web_file_number": "BGDRV2103425",
+        "ivac_center": "@label=IVAC , RAJSHAHI",
+        "visa_type": "MEDICAL/MEDICAL ATTENDANT VISA",
+        "name": "Raj kumar mondal",
+        "email": "webapp99tube@gmail.com",
+        "phone": "01518480999"
+    },
+
+    "user_2": {
+        "id": 2,
+        "highcom": "Khulna",
+        "web_file_number": "BGDRV2103425",
+        "ivac_center": "@label=IVAC, KHULNA",
+        "visa_type": "MEDICAL/MEDICAL ATTENDANT VISA",
+        "name": "Raj kumar mondal",
+        "email": "webapp99tube@gmail.com",
+        "phone": "01518480999"
+    }
+}
